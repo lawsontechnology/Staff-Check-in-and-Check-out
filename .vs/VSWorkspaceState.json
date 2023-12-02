@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Domain",
+    "\\Core\\Domain\\Entities",
+    "\\Infrastructure",
+    "\\Infrastructure\\Context"
+  ],
+  "SelectedNode": "\\Core\\Domain\\Entities\\Profile.cs",
+  "PreviewInSolutionExplorer": false
+}
